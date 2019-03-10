@@ -23,6 +23,9 @@
 
 [美图秀秀](http://xiuxiu.web.meitu.com/)
 
+[emoji](https://emojipedia.org/dog-face/)
+
+
 ## 2. 音频
 [在线音频处理](https://mp3cut.net/cn/beta/)
 
